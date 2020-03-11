@@ -1,2 +1,2 @@
 ## **Programadores**
-**Nombre :** José Torero
+**Nombre :** José Torero.
