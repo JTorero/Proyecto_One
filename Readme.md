@@ -1,2 +1,2 @@
-## **Programadores**
-**Nombre :** José Torero.
+## **Curso de Backend con Python & DJango**
+**Alumno :** José Torero.
